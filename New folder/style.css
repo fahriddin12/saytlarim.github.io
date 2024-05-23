@@ -1,0 +1,117 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    
+    }
+body{
+    background-color: black;
+}
+.bir{
+  display: flex;
+  justify-content: space-around;
+  font-size: 50px;
+  color: blue;
+
+  
+}
+header{
+    
+}
+.bir3{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}
+.bir4 img{
+text-align: center;
+padding: 0px 15px;
+margin: 30px;
+}
+.bir4{
+    text-align: center;
+}
+.bir6{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.bir7{
+    text-align: center;
+}
+.bir5{
+    
+
+}
+.bir13{
+    display: flex;
+    text-align: center;
+color: blue;
+padding: 50px;
+
+}
+.bir14{
+    display: flex;
+    color: blue;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+}
+.bir14 img{
+    padding: 20px;
+}
+.bir13 img {
+    padding: 20px;
+}
+.bir16{
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+.bir17{
+    margin: 100px;
+    text-align: center;
+}
+.bir18{
+    color: blue;
+    text-align: center;
+}
+.bir19{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.bir20{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+.bir img{
+    border-radius: 50%;
+    height: 300px;
+    width: 350px;
+}
+ul{
+    display: flex;
+justify-content: space-around;
+width: 700px;
+text-align: center;
+}
+ul li{
+    margin: auto;
+    width: 500px;
+    color: blue;
+}
+.bir7 button{
+    color: blue;
+    background-color: blue;
+}
+.bir13 button{
+    color: blue;
+background: transparent;
+    border-radius: 50px;
+}
+.bir14 button{
+    color: rgb(17, 27, 8);
+    background: transparent;
+    border-radius: 50px;
+}
